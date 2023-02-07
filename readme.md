@@ -1,7 +1,6 @@
 # live-project-09
 
-[page-link](https://user-images.githubusercontent.com/120504401/217300637-8452be7b-dfb8-42fa-9ec3-8d1ecc730426.png)
-
+https://jagtapnimisha2.github.io/ineuron-assignment-09/
 
 
 ![Screenshot (238)](https://user-images.githubusercontent.com/120504401/217300741-575b696f-210b-44d7-b1e2-581a61f93487.png)
